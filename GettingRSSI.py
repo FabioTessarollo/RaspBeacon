@@ -14,7 +14,7 @@ scanner = Scanner().withDelegate(ScanDelegate())
 devices = scanner.scan(10.0)
 
 
-def calcolaDistanza(self, rssi):
+def calcolaDistanza(rssi):
     int
     txpower = -59
     if rssi == 0:
