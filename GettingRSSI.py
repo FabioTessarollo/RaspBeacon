@@ -15,8 +15,7 @@ devices = scanner.scan(10.0)
 
 
 def calcolaDistanza(rssi):
-    int
-    txpower = -59
+    int txpower = -59
     if rssi == 0:
         return -1
     else:
