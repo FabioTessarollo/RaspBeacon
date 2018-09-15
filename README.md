@@ -1,6 +1,6 @@
 # RaspBeacon
 
-Python script for detecting BLE narrow devices and tracking them in terms of distance working on Linux.
+Python script using bluepy for detecting BLE narrow devices and tracking them in terms of distance working on Linux.
 The project has been tested on Raspberry PI 3.
 
 ## Requirements 
@@ -19,9 +19,4 @@ The project has been tested on Raspberry PI 3.
 If you satisfy requirements, you can just run the script
 
          sudo python [directory]/GettingRSSI.py
-         
-## INFO
-
-Language used is Italian. 
-      
-
+    
